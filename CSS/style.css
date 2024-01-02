@@ -4,7 +4,21 @@
   box-sizing: border-box;
 }
 
+html {
+  font-family: Arial, sans-serif;
+}
+
 body {
-  width: 500px;
+  width: 600px;
   margin: 0 auto;
+  padding: 10px;
+}
+
+header h1 {
+  font-size: 50px;
+}
+
+article p {
+  margin-left: 25px;
+  line-height: 1.3;
 }
